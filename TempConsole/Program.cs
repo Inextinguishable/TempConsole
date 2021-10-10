@@ -7,6 +7,8 @@ namespace TempConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            
+            Console.WriteLine("Welcomde to My World!");
 
             Console.ReadLine();
         }
